@@ -3,11 +3,11 @@
 <h3 align="center">I'm Full Stack Mobile Application Developer</h3>
 <img align="right" alt="Developing" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif"/>
 
-<h4>🔭 I’m currently exploring Kotlin Multiplatform and working Jetpack Compose for native development.</h4>
+-🔭 I’m currently exploring Kotlin Multiplatform and working Jetpack Compose for native development.
 
-<h4> 🌱 I'm an Application Developer passionate about building high-performance, intuitive applications using Kotlin Multiplatform (KMP) and Jetpack Compose.</h4>
+-🌱 I'm an Application Developer passionate about building high-performance, intuitive applications using Kotlin Multiplatform (KMP) and Jetpack Compose.
 
-<h4> 💬 Ask me about **anything related to App Development and DSA**</h4>
+- 💬 Ask me about **anything related to App Development and DSA**
 
 - 📫 How to reach me **rakeshraki6099@gmail.com**
 
