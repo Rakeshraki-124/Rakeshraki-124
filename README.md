@@ -1,3 +1,4 @@
+![logo](https://github.com/Rakeshraki-124/Rakeshraki-124/blob/main/2.png)
 <h1 align="center">Hi 👋, I'm Rakesh Behera</h1>
 <h3 align="center">I'm Full Stack Mobile Application Developer</h3>
 <img align="right" alt="Developing" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif"/>
