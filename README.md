@@ -13,9 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rakesh-behera-616346222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-behera-616346222" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rakeshraki6049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rakeshraki6049" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakesh_behera123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakesh_behera123" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/rakesh-behera-616346222" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+    </a>
+    <a href="mailto:rakeshraki6099@gmail.com" target="_blank" style="display: inline-block;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40">
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,14 +31,16 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakeshraki-124&show_icons=true&locale=en&layout=compact" alt="rakeshraki-124" /></p>
+### My Language Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakeshraki-124&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&exclude_repo=repo1,repo2" alt="rakeshraki-124" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshraki-124&show_icons=true&locale=en" alt="rakeshraki-124" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshraki-124&" alt="rakeshraki-124" /></p>
 
-### My Language Stats
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Rakeshraki-124&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&exclude_repo=repo1,repo2)
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakeshraki-124&theme=react-dark&hide_border=true)
