@@ -2,10 +2,12 @@
 <h1 align="center">Hi 👋, I'm Rakesh Behera</h1>
 <img align="right" alt="Developing" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-- 🔭 I’m currently exploring Kotlin Multiplatform and working Jetpack Compose for native development.
-- 🌱 I'm an Application Developer passionate about building high-performance, intuitive applications using Kotlin Multiplatform (KMP) and Jetpack Compose.
-
+- 🔭 A passionate Full Stack App Developer | Exploring Kotlin Multiplatform & Jetpack Compose.
+- 🌱 I have experience in building modern, scalable apps using Kotlin,firebase, Jetpack Compose, Flask, and Python.
+  
 - 💬 Ask me about **anything related to App Development and DSA**
+- 🎯 Goals: Contributing to **Open Source & Learning AI/ML** for App Development.
+- ⚡ Fun Fact: I love **coding**, **problem-solving**, and **open-source**!
 
 - 📫 How to reach me **rakeshraki6099@gmail.com**
 
@@ -24,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshraki-124&show_icons=true&locale=en" alt="rakeshraki-124" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshraki-124&" alt="rakeshraki-124" /></p>
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rakeshraki-124&theme=react-dark&hide_border=true)
+
+
