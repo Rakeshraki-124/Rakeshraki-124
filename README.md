@@ -26,6 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshraki-124&show_icons=true&locale=en" alt="rakeshraki-124" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshraki-124&" alt="rakeshraki-124" /></p>
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rakeshraki-124&theme=react-dark&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakeshraki-124&theme=react-dark&hide_border=true)
+
+
 
 
